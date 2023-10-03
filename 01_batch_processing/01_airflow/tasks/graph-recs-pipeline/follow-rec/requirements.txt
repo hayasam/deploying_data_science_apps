@@ -1,3 +1,4 @@
 boto3==1.9.134
 numpy==1.16.3
 pandas==0.24.2
+urllib3>=1.26.17 # not directly required, pinned by Snyk to avoid a vulnerability
