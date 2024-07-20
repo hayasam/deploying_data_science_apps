@@ -1,4 +1,4 @@
-FROM python:3.6-slim
+FROM python:3.13.0b3-slim
 LABEL maintainer Garrett Hoffman <garrett@stocktwits.com>
 
 RUN mkdir -p /src/
