@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-py3
+FROM tensorflow/tensorflow:2.2.3-py3
 LABEL maintainer Garrett Hoffman <garrett@stocktwits.com>
 
 RUN mkdir api/
