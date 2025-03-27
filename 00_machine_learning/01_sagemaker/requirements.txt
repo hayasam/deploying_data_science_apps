@@ -16,7 +16,7 @@ dockerpty==0.4.1
 docopt==0.6.2
 docutils==0.14
 gast==0.2.2
-grpcio==1.19.0
+grpcio==1.58.3
 h5py==2.9.0
 idna==2.7
 jmespath==0.9.4
@@ -40,7 +40,7 @@ pytz==2019.1
 PyYAML==4.2b1
 requests==2.20.1
 s3transfer==0.2.0
-sagemaker==1.18.12
+sagemaker==2.237.3
 scipy==1.2.1
 six==1.12.0
 tensorboard==1.13.1
